@@ -1,7 +1,8 @@
-# ✨ Overview
+#![anox_moneywash](https://github.com/user-attachments/assets/30aa75f1-7a83-4b07-9858-2a42a1842fe3)
 
-anox-moneywash is a realistic money laundering system where players use interactive washing machines to clean dirty cash.  
-With adjustable risk levels and laundry cards to start the process, players can turn their illegal money into clean cash at machines placed across the map.
+ ✨ Overview
+
+anox-moneywash is a realistic money laundering system where players use interactive washing machines to clean dirty cash.With adjustable risk levels and laundry cards to start the process, players can turn their illegal money into clean cash at machines placed across the map.
 
 - [Preview](https://www.youtube.com/watch?v=0NUc9b4OZhw)
 - [Docs](https://anoxstudios.gitbook.io/anoxstudios/free-scripts/anox-moneywash)

@@ -1,0 +1,1 @@
+laundry_card = { name = 'laundry_card', label = 'Laundry Card', weight = 0, type = 'item', image = 'laundry_card.png', unique = false, useable = true, shouldClose = true, description = 'Card required to wash dirty money at the laundromat.' }

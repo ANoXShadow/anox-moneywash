@@ -7,6 +7,7 @@ anox-moneywash is a realistic money laundering system where players use interact
 - [Preview](https://www.youtube.com/watch?v=0NUc9b4OZhw)
 - [Docs](https://anoxstudios.gitbook.io/anoxstudios/free-scripts/anox-moneywash)
 - [Discord](https://discord.gg/gbJ5SyBJBv)
+- [Fivem](https://forum.cfx.re/t/esx-qb-qbx-anox-moneywash-interactive-configurable-money-laundering-system-free/5324525)
 
 ---
 
